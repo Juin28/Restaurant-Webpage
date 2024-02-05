@@ -1,5 +1,6 @@
 # Restaurant-Webpage
-This repository creates a webpage for a restaurant, with several functions such as checking the menu of the restaurant, booking a timeslot for dining, or contacting the restaurant. However, the real functions have not been implemented and this only serves as a front-end framework.
+This repository creates a webpage for a restaurant, with several functions such as booking a timeslot for dining, or contacting the restaurant. However, the real functions have not been implemented and this only serves as a front-end framework. For now, only the menu function has been implemented. More functions will be implemented in the future.
+
 ![image](https://github.com/Juin28/Restaurant-Webpage/assets/114983636/2fc65048-0fbc-4b10-8cce-9c8ecf7abf77)
 ![image](https://github.com/Juin28/Restaurant-Webpage/assets/114983636/3e7c7f8b-82f8-4835-9213-bdc9133f776d)
 This is the preview of the webpage and the color can be modified as you wish. The functions such as booking or checking the menu have not been implemented yet but can be easily implemented by creating a file referring to the index.html code in the repository. The logo, restaurant's name and copyright notice can be changed accordingly. 
