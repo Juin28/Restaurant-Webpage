@@ -1,5 +1,6 @@
 # Restaurant Webpage
  - The link to the restaurant webpage: https://juin28.github.io/RestaurantWebpage.github.io/
+
 This repository creates a webpage for a restaurant, with several functions such as booking a timeslot for dining, or contacting the restaurant. However, the real functions have not been implemented and this only serves as a front-end framework. For now, only the menu function has been implemented. More functions will be implemented in the future.
 
 ![image](https://github.com/Juin28/Restaurant-Webpage/assets/114983636/2fc65048-0fbc-4b10-8cce-9c8ecf7abf77)
